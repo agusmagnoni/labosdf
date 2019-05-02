@@ -1,5 +1,6 @@
 # %load ./../functions/detect_peaks.py
-"""Detect peaks in data based on their amplitude and other features."""
+"""Detect peaks in data based on their amplitude and other features.
+JUpyter notebook: https://github.com/demotu/BMC/blob/master/notebooks/DetectPeaks.ipynb"""
 
 from __future__ import division, print_function
 import numpy as np
