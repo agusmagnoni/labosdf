@@ -1,3 +1,4 @@
+""" Ejemplo de una Fast Fourier Transform usando scipy. Comentario: la máxima frecuencia calculable es la de sampleo/2"""
 
 from scipy.fftpack import fft
 
